@@ -1,2 +1,4 @@
 Get de user data...
 proccess the data
+
+create an avatar for user
